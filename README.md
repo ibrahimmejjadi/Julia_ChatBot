@@ -1,4 +1,4 @@
-# 🤖 Julia — Interactive Python Chatbot
+# 🤖 Julia - Interactive Python Chatbot
 
 A conversational chatbot built in Python that simulates a real interactive dialogue — awarded best project in class on the Algorithmics platform.
 
@@ -24,12 +24,12 @@ This was a class project where students competed to build the most engaging chat
 
 ## 📋 What Julia Can Talk About
 
-- Music — recommendations by genre (Rap, Pop, Jazz, Classical, Heavy Metal)
-- Movies — recommendations by genre (Action, Comedy, Drama, Fantasy, Horror, Sci-Fi, Documentary)
-- Latest News — by region (Morocco, Africa, Europe, Asia, Australia, North America, South America)
-- Life Tips — Time Management, Stress, Healthy Habits, Communication, Goals
-- Python Home Practice — resources and advice for self-learning
-- Games — Mad Libs and Rock Paper Scissors
+- Music ; recommendations by genre (Rap, Pop, Jazz, Classical, Heavy Metal)
+- Movies ; recommendations by genre (Action, Comedy, Drama, Fantasy, Horror, Sci-Fi, Documentary)
+- Latest News ; by region (Morocco, Africa, Europe, Asia, Australia, North America, South America)
+- Life Tips ; Time Management, Stress, Healthy Habits, Communication, Goals
+- Python Home Practice ; resources and advice for self-learning
+- Games ; Mad Libs and Rock Paper Scissors
 
 ---
 
