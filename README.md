@@ -53,3 +53,9 @@ No installations needed — built with Python's standard library only.
 ## 👤 Author
 
 **Ibrahim Mejjadi** — [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi) · [github.com/ibrahimmejjadi](https://github.com/ibrahimmejjadi)
+
+---
+
+## 📌 Status
+
+This project is complete. It was built for a class competition and isn't under active development — no further updates planned.
