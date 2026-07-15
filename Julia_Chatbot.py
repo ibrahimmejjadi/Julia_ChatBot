@@ -18,10 +18,10 @@ conversation = input("Nice to meet you '"+ name+"' \nHow can I help you?\n(write
 
 while conversation != "end":
     if "menu" in conversation  :
-        menu_input = input("\nHere  are some of my suggestions :\n\n-Music 🎵 \n-Movies 📽️\n-Latest news 📰 \n-Life tips 💡\n-Python home practice 🐍💻🏠  \n-Games 🧩 (more Soon!)  \n-Weights converting system(Not yet, On the future updates) \n ").lower()
+        menu_input = input("\nHere  are some of my suggestions :\n\n-Music 🎵 \n-Movies 📽️\n-Latest news 📰 \n-Life tips 💡\n-Python home practice 🐍💻🏠  \n-Games 🧩   \n ").lower()
         if  word_music in menu_input :
 
-            music_preference = input("\nHmm, let see what we have here: \n-Actually it depends on your music preference, which type of music do you  prefer '"+ name+"' ? \n\n-Rap \n-Pop  \n-Jazz \n-Classic music \n-Heavy metal \n ").lower()
+            music_preference = input("\nHmm, let see hat we have here: \n-Actually it depends on your music preference, which type of music do you  prefer '"+ name+"' ? \n\n-Rap \n-Pop  \n-Jazz \n-Classic music \n-Heavy metal \n ").lower()
             if "rap" in music_preference:
                 print("Rap music was always a way for the musiscians to express love, loyalty or even treir life strugles. \nIf I were you, I will enjoy listening to: \n\n-Mockingbird -by 'Eminem' \n-Keep Ya Head Up -by '2Pac' \n-Dear Mama -by '2Pac' \n-Al Rissala -by 'Muslim' \n-Mama -by 'Muslim' \nYou can start your journey from here and then explore this art within yourself \n\n____________________________________________________________\n____________________________________________________________\n ")
                 conversation = input("Anything else?\n(write 'end' to finish the conversation) \n(write 'menu' if you want my suggetions)\n ").lower()          
