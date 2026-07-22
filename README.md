@@ -50,9 +50,13 @@ No installations needed, built with Python's standard library only.
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Ibrahim Mejjadi**: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
+**Ibrahim Mejjadi**: Digital Infrastructure Student, CMC Tangier
+
+🔗 LinkedIn: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
+
+📧 Email: ibrahim.mejjadi@gmail.com
 
 ---
 
