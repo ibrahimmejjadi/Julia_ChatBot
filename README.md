@@ -1,6 +1,6 @@
 # 🤖 Julia: Interactive Python Chatbot
 
-A conversational chatbot built in Python that simulates a real interactive dialogue, awarded best project in class on the Algorithmics platform.
+A Python chatbot that chats, recommends music & movies, shares news, and plays games, awarded best project in class at Algorithmics International School.
 
 ---
 
